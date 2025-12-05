@@ -1,0 +1,148 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="Uz3RAdfc99ALSXt7lAq3">
+    <mxGraphModel dx="860" dy="602" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-1" value="&lt;font style=&quot;color: rgb(9, 9, 9);&quot;&gt;User&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="40" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="Hs_W1bXJIwtg14eNJa_j-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-3" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;GUI&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="170" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-4" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Car Rental&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="610" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-5" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Resesrvation Manager&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="390" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="480" as="sourcePoint" />
+            <mxPoint x="450" y="129.3548387096774" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="480" as="sourcePoint" />
+            <mxPoint x="669.6800000000001" y="130.00483870967741" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="480" as="sourcePoint" />
+            <mxPoint x="229.68000000000006" y="130.00483870967741" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="480" as="sourcePoint" />
+            <mxPoint x="50.00000000000006" y="130.00483870967741" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-11" value="reservation id and contact info" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;html=1;labelBackgroundColor=none;fontColor=#000000;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="350" as="sourcePoint" />
+            <mxPoint x="230" y="350" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-12" value="car details" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;labelBackgroundColor=none;fontColor=#000000;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="270" as="sourcePoint" />
+            <mxPoint x="670" y="270" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-13" value="getCarDetails()" style="verticalAlign=bottom;endArrow=block;curved=0;rounded=0;labelBackgroundColor=none;fontColor=#090909;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="450" y="230" as="sourcePoint" />
+            <mxPoint x="670" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-14" value="rent car" style="verticalAlign=bottom;endArrow=block;curved=0;rounded=0;labelBackgroundColor=none;fontColor=#000000;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="150" as="sourcePoint" />
+            <mxPoint x="230" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-15" value="car details and time frame" style="verticalAlign=bottom;endArrow=block;curved=0;rounded=0;labelBackgroundColor=none;fontColor=#000000;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="210" as="sourcePoint" />
+            <mxPoint x="230" y="210" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-16" value="make&#xa;reservation" style="verticalAlign=bottom;endArrow=block;curved=0;rounded=0;labelBackgroundColor=none;fontColor=#000000;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry x="0.2727" y="30" width="80" relative="1" as="geometry">
+            <mxPoint x="450" y="290" as="sourcePoint" />
+            <mxPoint x="450" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="290" />
+              <mxPoint x="480" y="330" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-19" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Database&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="830" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="889" y="480" as="sourcePoint" />
+            <mxPoint x="889" y="130.00483870967741" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-23" value="car details" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;labelBackgroundColor=none;fontColor=#000000;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="280" as="sourcePoint" />
+            <mxPoint x="450" y="280" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-25" value="updateCars()" style="verticalAlign=bottom;endArrow=block;curved=0;rounded=0;labelBackgroundColor=none;fontColor=#000000;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="450" y="370" as="sourcePoint" />
+            <mxPoint x="670" y="370" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-32" value="car details&#xa;form" style="verticalAlign=bottom;endArrow=block;curved=0;rounded=0;labelBackgroundColor=none;fontColor=#000000;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry x="0.2727" y="30" width="80" relative="1" as="geometry">
+            <mxPoint x="230" y="160" as="sourcePoint" />
+            <mxPoint x="230" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="160" />
+              <mxPoint x="260" y="200" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-33" value="rentCar()" style="verticalAlign=bottom;endArrow=block;curved=0;rounded=0;labelBackgroundColor=none;fontColor=#000000;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="230" y="220" as="sourcePoint" />
+            <mxPoint x="450" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-34" value="getCarDetails()" style="verticalAlign=bottom;endArrow=block;curved=0;rounded=0;labelBackgroundColor=none;fontColor=#090909;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="670" y="240" as="sourcePoint" />
+            <mxPoint x="890" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hs_W1bXJIwtg14eNJa_j-35" value="updateCars()" style="verticalAlign=bottom;endArrow=block;curved=0;rounded=0;labelBackgroundColor=none;fontColor=#000000;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="670" y="380" as="sourcePoint" />
+            <mxPoint x="890" y="380" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
