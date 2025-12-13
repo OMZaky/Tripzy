@@ -1,0 +1,78 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="uPMbyin_lcRoQ-95j7p6">
+    <mxGraphModel dx="1585" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VlCyh1_5FxORB5dgg2lc-3" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="423" y="102" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlCyh1_5FxORB5dgg2lc-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="VlCyh1_5FxORB5dgg2lc-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="438" y="192" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlCyh1_5FxORB5dgg2lc-5" value="Rent cars" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="378" y="192" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VlCyh1_5FxORB5dgg2lc-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="VlCyh1_5FxORB5dgg2lc-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="438" y="292" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlCyh1_5FxORB5dgg2lc-7" value="Enter car details" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="378" y="292" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VlCyh1_5FxORB5dgg2lc-8" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="VlCyh1_5FxORB5dgg2lc-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="438" y="392" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlCyh1_5FxORB5dgg2lc-11" value="Make reservation" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="378" y="492" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VlCyh1_5FxORB5dgg2lc-12" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="438" y="534" as="sourcePoint" />
+            <mxPoint x="438" y="594" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VlCyh1_5FxORB5dgg2lc-13" value="Enter payment details" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="378" y="593" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VlCyh1_5FxORB5dgg2lc-23" value="Pay" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="378" y="722" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VlCyh1_5FxORB5dgg2lc-25" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="423" y="822" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlCyh1_5FxORB5dgg2lc-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;User&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="408" y="49" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VlCyh1_5FxORB5dgg2lc-33" value="Choose car" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="378" y="392" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VlCyh1_5FxORB5dgg2lc-34" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="VlCyh1_5FxORB5dgg2lc-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="438" y="492" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0DEstcuSMhckTjAQRRFt-1" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VlCyh1_5FxORB5dgg2lc-13" target="VlCyh1_5FxORB5dgg2lc-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="428" y="662" as="sourcePoint" />
+            <mxPoint x="428" y="722" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0DEstcuSMhckTjAQRRFt-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VlCyh1_5FxORB5dgg2lc-23" target="VlCyh1_5FxORB5dgg2lc-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="488" y="802" as="sourcePoint" />
+            <mxPoint x="518" y="802" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0DEstcuSMhckTjAQRRFt-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Car Rental&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="49" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
